@@ -1,0 +1,12 @@
+# тяжёлые артефакты моделей (best_model.pkl ~758 МБ, GitHub не примет)
+2026/models/
+
+# локальные копии ноутбуков и кэш
+.ipynb_checkpoints/
+*.backup.ipynb
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
